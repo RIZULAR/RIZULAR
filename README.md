@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-d0cb7d88-0f64-4e56-b5a7-72d4ca84465d.gif" width="100%" alt="MasterHead">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="MasterHead" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Rizqi Zulmiazta Albar</h1>
 <h3 align="center">A passionate Fullstack Developer from Universitas Amikom Yogyakarta</h3>
