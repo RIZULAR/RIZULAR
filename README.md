@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="MasterHead" width="100%">
-</p>
+[![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)](https://github.com/RIZULAR)
 <h1 align="center">Hi 👋, I'm Rizqi Zulmiazta Albar</h1>
 <h3 align="center">A passionate Fullstack Developer from Universitas Amikom Yogyakarta</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/UVXEoUlQHjAAAAAd/utya-duck.gif">
